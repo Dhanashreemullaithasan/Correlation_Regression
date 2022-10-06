@@ -54,7 +54,9 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression line,Data points'])
 ```
-# Results and Output : 
+# Output : 
 ![i1](https://user-images.githubusercontent.com/94165415/194225871-c5c334a1-a544-4532-a1fd-9ffa46c7fafb.PNG)
+
+# Result:
 
  The given Correlation and regression for data analysis is successfully exicuted.
