@@ -59,4 +59,4 @@ plt.legend(['Regression line,Data points'])
 
 # Result:
 
- The given Correlation and regression for data analysis is successfully exicuted.
+ The given Correlation and regression for data analysis is calculated.
